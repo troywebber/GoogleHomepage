@@ -94,3 +94,53 @@ button.lucky.button {
     text-align: center;
     cursor: pointer;
 }
+
+.footer {
+    background-color: rgb(224, 149, 214);
+    height: 50px;
+    padding: 0px 15px;
+}
+
+.abh {
+    float: left;
+}
+
+.advertising {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+a.Business {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+a.howsearchworks {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.pts {
+    float: right;
+}
+
+a.Privacy {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+a.Terms {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+a.Settings {
+    padding-right: 10px;
+    position: relative;
+    top: 10px;
+}
