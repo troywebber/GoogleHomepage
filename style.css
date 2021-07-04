@@ -13,18 +13,29 @@ body {
 
 a.about {
     padding: 0px;
+    text-decoration: none;
+    color: #222;
 }
 
 a.store {
     padding-left: 15px;
+    text-decoration: none;
+    color: #222;
+
 }
 
 a.gmail {
     padding: 0px;
+    text-decoration: none;
+    color: #222;
+
 }
 
 a.images {
     padding-left: 15px;
+    text-decoration: none;
+    color: #222;
+
 }
 
 .as {
@@ -70,7 +81,7 @@ input.search {
 button.search.button {
     border-radius: 1px;
     border-style: solid;
-    border-color: #8b959c;
+    border-color: #f8f9fa;
     background-color: #f8f9fa;
     color: #3c4043;
     border-radius: 4px;
@@ -84,7 +95,7 @@ button.search.button {
 button.lucky.button {
     border-radius: 1px;
     border-style: solid;
-    border-color: #8b959c;
+    border-color: #f8f9fa;
     background-color: #f8f9fa;
     color: #3c4043;
     border-radius: 4px;
@@ -96,7 +107,7 @@ button.lucky.button {
 }
 
 .footer {
-    background-color: rgb(224, 149, 214);
+    background-color: #f2f2f2;
     height: 50px;
     padding: 0px 15px;
 }
@@ -109,18 +120,24 @@ button.lucky.button {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
 
 a.Business {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
 
 a.howsearchworks {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
 
 .pts {
@@ -131,16 +148,22 @@ a.Privacy {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
 
 a.Terms {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
 
 a.Settings {
     padding-right: 10px;
     position: relative;
     top: 10px;
+    text-decoration: none;
+    color: #70757a;
 }
